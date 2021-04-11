@@ -1,2 +1,2 @@
 # PizzaDeliveryDatabase
-Delivery database system for pizza restaurant.
+Delivery database system for pizza restaurant. Developed in SQL.
