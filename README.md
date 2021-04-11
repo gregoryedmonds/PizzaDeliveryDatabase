@@ -1,2 +1,2 @@
 # PizzaDeliveryDatabase
-Delivery database system for pizza restaurant.
+Project to create a delivery database system for a pizza restaurant.
